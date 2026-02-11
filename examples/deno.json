@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@std/assert": "jsr:@std/assert@^1",
+    "@supa-edge/framework": "../packages/framework/mod.ts",
+    "@supa-edge/testing": "../packages/testing/mod.ts",
+    "zod": "npm:zod@^3.23.0"
+  }
+}
