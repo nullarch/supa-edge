@@ -12,6 +12,10 @@ export { logger } from "./src/middleware/logger.ts";
 export { rateLimit } from "./src/middleware/rate_limit.ts";
 export { validator } from "./src/middleware/validator.ts";
 
+// RPC
+export { defineRpc } from "./src/rpc.ts";
+export type { RpcDefinition, RpcOptions } from "./src/rpc.ts";
+
 // Supabase utils
 export { getSupabaseEnv } from "./src/supabase/env.ts";
 export type { SupabaseEnv } from "./src/supabase/env.ts";
