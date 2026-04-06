@@ -469,5 +469,4 @@ deno test --allow-env --allow-net packages/framework/tests/app_test.ts
 
 [MIT](./LICENSE)
 
-[![VibeMon](https://vibemon.dev/api/badge/YOUR_HANDLE)](https://vibemon.dev/u/YOUR_HAND
-  LE)
+[![VibeMon](https://vibemon.dev/api/badge/zzz)]
